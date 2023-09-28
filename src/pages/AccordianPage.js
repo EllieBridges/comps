@@ -6,7 +6,7 @@ function AccordianPage() {
       id: "213g2",
       label: "First things first",
       content:
-        "I'm alway hungry. I need to write a long paragraph so here it goes. 'lalala, lalalalala, lalala, lalalalala.",
+        "I'm always hungry. I need to write a long input, so here it goes. 'lalala, lalalalala, lalala, lalalalala...'",
     },
     {
       id: "sje4j",
